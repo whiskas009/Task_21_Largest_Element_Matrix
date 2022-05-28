@@ -10,24 +10,22 @@ namespace Task_21_Largest_Element_Matrix
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
+            Random random = new Random();
 
             int minSizeMatrix = 1;
             int maxSizeMatrix = 10;
-
             int maxElementMatrix = 0;
-
-            int numberRow = rand.Next(minSizeMatrix, maxSizeMatrix);
-            int numberColumn = rand.Next(minSizeMatrix, maxSizeMatrix);
-
+            int numberRow = random.Next(minSizeMatrix, maxSizeMatrix);
+            int numberColumn = random.Next(minSizeMatrix, maxSizeMatrix);
             int[,] array = new int [numberRow, numberColumn];
+
             Console.WriteLine("Исходная матрица: \n");
 
             for (int i = 0; i < array.GetLength(0); i++)
             {
                 for (int j = 0; j < array.GetLength(1); j++)
                 {
-                    array[i, j] = rand.Next();
+                    array[i, j] = random.Next();
                     if (maxElementMatrix < array[i, j])
                     {
                         maxElementMatrix = array[i, j];
@@ -38,6 +36,7 @@ namespace Task_21_Largest_Element_Matrix
             }
 
             Console.WriteLine($"\nМаксимальный элемент в матрице {maxElementMatrix}\n");
+
             Console.WriteLine("Изменённая матрица: \n");
 
             for (int i = 0; i < array.GetLength(0); i++)
