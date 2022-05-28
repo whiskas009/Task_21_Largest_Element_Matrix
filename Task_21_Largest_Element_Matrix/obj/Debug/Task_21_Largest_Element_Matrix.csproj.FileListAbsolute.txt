@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\bin\Debug\Task_21_Largest_Element_Matrix.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\bin\Debug\Task_21_Largest_Element_Matrix.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\bin\Debug\Task_21_Largest_Element_Matrix.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\obj\Debug\Task_21_Largest_Element_Matrix.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\obj\Debug\Task_21_Largest_Element_Matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\obj\Debug\Task_21_Largest_Element_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\obj\Debug\Task_21_Largest_Element_Matrix.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_21_Largest_Element_Matrix\Task_21_Largest_Element_Matrix\obj\Debug\Task_21_Largest_Element_Matrix.pdb
